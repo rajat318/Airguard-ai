@@ -1,0 +1,6 @@
+{
+  "name": "AirGuard AI",
+  "description": "AI-powered community climate-action and environmental intelligence platform for air quality monitoring, pollution hotspot detection, multimodal incident verification, and rapid intervention.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
